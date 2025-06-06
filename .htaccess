@@ -1,0 +1,38 @@
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+
+# Set base directory
+RewriteBase /birmistan_future_hospital/
+
+# Ensure direct access to actual files
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Handle PHP file extensions
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Set default character set
+AddDefaultCharset UTF-8
+
+# Enable error reporting
+php_flag display_errors on
+php_value error_reporting E_ALL
+
+# Set session parameters
+php_value session.cookie_httponly 1
+php_value session.use_only_cookies 1
+
+# Set maximum upload size
+php_value upload_max_filesize 10M
+php_value post_max_size 10M
+
+# Prevent directory listing
+Options -Indexes
+
+# Enable CORS
+Header set Access-Control-Allow-Origin "*"
+
+# PHP settings
+php_value max_execution_time 300
+php_value max_input_time 300 

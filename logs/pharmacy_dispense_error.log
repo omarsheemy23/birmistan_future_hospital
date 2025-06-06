@@ -1,0 +1,120 @@
+[15-May-2025 00:42:23 Europe/Berlin] [2025-05-15 00:42:23] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:42:23 Europe/Berlin] [2025-05-15 00:42:23] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:42:32 Europe/Berlin] [2025-05-15 00:42:32] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:42:32 Europe/Berlin] [2025-05-15 00:42:32] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:42:39 Europe/Berlin] [2025-05-15 00:42:39] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:42:39 Europe/Berlin] [2025-05-15 00:42:39] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:42:52 Europe/Berlin] [2025-05-15 00:42:52] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 00:42:54 Europe/Berlin] [2025-05-15 00:42:54] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:42:54 Europe/Berlin] [2025-05-15 00:42:54] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:45:10 Europe/Berlin] [2025-05-15 00:45:10] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:45:10 Europe/Berlin] [2025-05-15 00:45:10] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:45:10 Europe/Berlin] [2025-05-15 00:45:10] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:45:10 Europe/Berlin] [2025-05-15 00:45:10] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:45:11 Europe/Berlin] [2025-05-15 00:45:11] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:45:11 Europe/Berlin] [2025-05-15 00:45:11] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:45:11 Europe/Berlin] [2025-05-15 00:45:11] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:45:11 Europe/Berlin] [2025-05-15 00:45:11] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:45:11 Europe/Berlin] [2025-05-15 00:45:11] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:45:11 Europe/Berlin] [2025-05-15 00:45:11] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:45:13 Europe/Berlin] [2025-05-15 00:45:13] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 00:45:43 Europe/Berlin] [2025-05-15 00:45:43] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:45:43 Europe/Berlin] [2025-05-15 00:45:43] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.dosage_form' in 'field list'
+[15-May-2025 00:46:57 Europe/Berlin] [2025-05-15 00:46:57] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:46:57 Europe/Berlin] [2025-05-15 00:46:57] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:48:19 Europe/Berlin] [2025-05-15 00:48:19] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:48:19 Europe/Berlin] [2025-05-15 00:48:19] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:48:20 Europe/Berlin] [2025-05-15 00:48:20] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:48:20 Europe/Berlin] [2025-05-15 00:48:20] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:48:20 Europe/Berlin] [2025-05-15 00:48:20] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:48:20 Europe/Berlin] [2025-05-15 00:48:20] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:48:20 Europe/Berlin] [2025-05-15 00:48:20] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:48:20 Europe/Berlin] [2025-05-15 00:48:20] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:49:32 Europe/Berlin] [2025-05-15 00:49:32] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:49:32 Europe/Berlin] [2025-05-15 00:49:32] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:51:09 Europe/Berlin] [2025-05-15 00:51:09] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:51:09 Europe/Berlin] [2025-05-15 00:51:09] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:56:12 Europe/Berlin] [2025-05-15 00:56:12] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:56:12 Europe/Berlin] [2025-05-15 00:56:12] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:56:13 Europe/Berlin] [2025-05-15 00:56:13] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:56:13 Europe/Berlin] [2025-05-15 00:56:13] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:56:19 Europe/Berlin] [2025-05-15 00:56:19] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:56:19 Europe/Berlin] [2025-05-15 00:56:19] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:58:19 Europe/Berlin] [2025-05-15 00:58:19] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:58:19 Europe/Berlin] [2025-05-15 00:58:19] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:59:30 Europe/Berlin] [2025-05-15 00:59:30] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:59:30 Europe/Berlin] [2025-05-15 00:59:30] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:59:31 Europe/Berlin] [2025-05-15 00:59:31] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:59:31 Europe/Berlin] [2025-05-15 00:59:31] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:59:32 Europe/Berlin] [2025-05-15 00:59:32] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:59:32 Europe/Berlin] [2025-05-15 00:59:32] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:59:32 Europe/Berlin] [2025-05-15 00:59:32] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:59:32 Europe/Berlin] [2025-05-15 00:59:32] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:59:32 Europe/Berlin] [2025-05-15 00:59:32] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:59:32 Europe/Berlin] [2025-05-15 00:59:32] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:59:32 Europe/Berlin] [2025-05-15 00:59:32] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:59:32 Europe/Berlin] [2025-05-15 00:59:32] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 00:59:35 Europe/Berlin] [2025-05-15 00:59:35] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 00:59:35 Europe/Berlin] [2025-05-15 00:59:35] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:00:11 Europe/Berlin] [2025-05-15 01:00:11] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:00:11 Europe/Berlin] [2025-05-15 01:00:11] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:01:15 Europe/Berlin] [2025-05-15 01:01:15] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:01:15 Europe/Berlin] [2025-05-15 01:01:15] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:01:16 Europe/Berlin] [2025-05-15 01:01:16] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:01:16 Europe/Berlin] [2025-05-15 01:01:16] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:01:16 Europe/Berlin] [2025-05-15 01:01:16] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:01:16 Europe/Berlin] [2025-05-15 01:01:16] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:01:19 Europe/Berlin] [2025-05-15 01:01:19] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:01:19 Europe/Berlin] [2025-05-15 01:01:19] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:29 Europe/Berlin] [2025-05-15 01:03:29] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:29 Europe/Berlin] [2025-05-15 01:03:29] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:30 Europe/Berlin] [2025-05-15 01:03:30] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:30 Europe/Berlin] [2025-05-15 01:03:30] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:31 Europe/Berlin] [2025-05-15 01:03:31] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:32 Europe/Berlin] [2025-05-15 01:03:32] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:32 Europe/Berlin] [2025-05-15 01:03:32] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:03:32 Europe/Berlin] [2025-05-15 01:03:32] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:03:32 Europe/Berlin] [2025-05-15 01:03:32] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.price' in 'field list'
+[15-May-2025 01:10:25 Europe/Berlin] [2025-05-15 01:10:25] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:10:39 Europe/Berlin] [2025-05-15 01:10:39] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:10:46 Europe/Berlin] [2025-05-15 01:10:46] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:11:30 Europe/Berlin] [2025-05-15 01:11:30] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 01:11:34 Europe/Berlin] [2025-05-15 01:11:34] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 01:11:51 Europe/Berlin] [2025-05-15 01:11:51] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:17:02 Europe/Berlin] [2025-05-15 01:17:02] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 01:17:05 Europe/Berlin] [2025-05-15 01:17:05] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:17:20 Europe/Berlin] [2025-05-15 01:17:20] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 01:17:23 Europe/Berlin] [2025-05-15 01:17:23] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:17:52 Europe/Berlin] [2025-05-15 01:17:52] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 01:17:53 Europe/Berlin] [2025-05-15 01:17:53] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:19:25 Europe/Berlin] [2025-05-15 01:19:25] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:21:07 Europe/Berlin] [2025-05-15 01:21:07] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 01:24:07 Europe/Berlin] [2025-05-15 01:24:07] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:24:07 Europe/Berlin] [2025-05-15 01:24:07] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.medicine_id' in 'on clause'
+[15-May-2025 01:24:19 Europe/Berlin] [2025-05-15 01:24:19] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:24:19 Europe/Berlin] [2025-05-15 01:24:19] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.medicine_id' in 'on clause'
+[15-May-2025 01:24:29 Europe/Berlin] [2025-05-15 01:24:29] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:24:29 Europe/Berlin] [2025-05-15 01:24:29] Fatal Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.medicine_id' in 'on clause'
+[15-May-2025 01:25:20 Europe/Berlin] [2025-05-15 01:25:20] Accessing dispense_medicine.php - Prescription ID: 8
+[15-May-2025 01:26:03 Europe/Berlin] [2025-05-15 01:26:03] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 01:27:00 Europe/Berlin] [2025-05-15 01:27:00] Accessing dispense_medicine.php - No prescription ID
+[15-May-2025 01:27:06 Europe/Berlin] [2025-05-15 01:27:06] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:27:12 Europe/Berlin] [2025-05-15 01:27:12] Accessing dispense_medicine.php - Prescription ID: 9
+[15-May-2025 01:40:13 Europe/Berlin] [2025-05-15 01:40:13] Accessing dispense_medicine.php - Prescription ID: 10
+[15-May-2025 01:40:21 Europe/Berlin] [2025-05-15 01:40:21] Accessing dispense_medicine.php - Prescription ID: 10
+[15-May-2025 01:40:21 Europe/Berlin] [2025-05-15 01:40:21] Error dispensing medicines: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'medicine_id' in 'field list'
+[15-May-2025 01:41:44 Europe/Berlin] [2025-05-15 01:41:44] Accessing dispense_medicine.php - Prescription ID: 10
+[15-May-2025 01:41:44 Europe/Berlin] [2025-05-15 01:41:44] Error dispensing medicines: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hospital_db`.`dispensed_medicines`, CONSTRAINT `dispensed_medicines_ibfk_2` FOREIGN KEY (`pharmacist_id`) REFERENCES `pharmacists` (`id`) ON DELETE CASCADE)
+[15-May-2025 01:44:42 Europe/Berlin] [2025-05-15 01:44:42] Accessing dispense_medicine.php - Prescription ID: 10
+[15-May-2025 01:44:42 Europe/Berlin] [2025-05-15 01:44:42] Found pharmacist ID: 3 for user: 65

@@ -1,0 +1,13 @@
+Options +Indexes +FollowSymLinks
+AddType application/x-httpd-php .php
+DirectoryIndex index.php dashboard.php
+
+# Ensure PHP files are properly executed
+<Files ~ "\.php$">
+    SetHandler application/x-httpd-php
+</Files>
+
+# Allow access to this directory
+<IfModule mod_authz_core.c>
+    Require all granted
+</IfModule> 

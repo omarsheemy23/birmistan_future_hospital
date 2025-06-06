@@ -1,0 +1,139 @@
+/* تصميم شريط التنقل الرئيسي */
+.navbar {
+    background: linear-gradient(135deg, #1a5f7a 0%, #2c3e50 100%);
+    padding: 0.5rem 1rem; /* تقليل الحشو */
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    position: relative; /* تم تغيير الموضع من fixed لضمان عدم تداخل المحتوى */
+    overflow: visible; /* السماح للعناصر بالخروج عن حدود الشريط إذا لزم الأمر */
+    height: auto; /* السماح بالارتفاع التلقائي */
+    min-height: 45px; /* حد أدنى للارتفاع */
+}
+
+/* تصميم شعار المستشفى */
+.navbar-brand {
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 1.3rem; /* تقليل حجم الخط */
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* تظليل بسيط للنص */
+    position: relative;
+    transition: all 0.3s ease;
+    letter-spacing: 0.5px;
+    z-index: 2;
+    padding: 0.2rem 0; /* تقليل البادينج */
+}
+
+/* إلغاء تأثير النيون المتكرر */
+.navbar-brand::before,
+.navbar-brand::after {
+    display: none !important; /* منع أي عناصر تم إنشاؤها بالـ pseudo-elements */
+}
+
+/* إلغاء تعريف الرسوم المتحركة */
+@keyframes neonGlow {
+    0%, 100% {
+        text-shadow: none; /* عدم وجود تأثير ظل */
+    }
+}
+
+.navbar-brand img {
+    width: 35px; /* تقليل حجم الصورة */
+    height: 35px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.navbar-brand:hover {
+    transform: scale(1.02);
+}
+
+.navbar-brand:hover img {
+    transform: rotate(5deg);
+}
+
+/* تصميم روابط التنقل */
+.nav-link {
+    color: #ecf0f1 !important;
+    margin: 0 5px; /* تقليل الهوامش */
+    padding: 0.3rem 0.8rem; /* تقليل الحشو */
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    position: relative;
+    font-size: 0.95rem; /* تقليل حجم الخط */
+}
+
+.nav-link:hover {
+    color: #ffffff !important;
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+}
+
+.nav-link i {
+    margin-left: 5px;
+    font-size: 1rem; /* تقليل حجم الأيقونة */
+}
+
+/* تصميم زر تسجيل الخروج */
+.btn-logout {
+    background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+    color: white;
+    border: none;
+    padding: 5px 15px; /* تقليل البادينج */
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    font-size: 0.95rem; /* تقليل حجم الخط */
+}
+
+.btn-logout:hover {
+    background: linear-gradient(135deg, #c0392b 0%, #e74c3c 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(231, 76, 60, 0.2);
+}
+
+/* تصميم زر القائمة للشاشات الصغيرة */
+.navbar-toggler {
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    padding: 0.3rem; /* تقليل الحشو */
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+/* إزالة تأثير المطر وأي تأثيرات متحركة أخرى */
+.matrix-rain {
+    display: none !important;
+}
+
+/* ضمان عدم تداخل المحتوى مع الناف بار */
+body {
+    padding-top: 0 !important; /* إزالة أي بادينج تم إضافته في صفحات أخرى */
+    margin-top: 55px; /* إضافة هامش علوي ثابت للجسم */
+}
+
+/* تحسينات للشاشات الصغيرة */
+@media (max-width: 991.98px) {
+    .navbar-collapse {
+        background: rgba(44, 62, 80, 0.95);
+        padding: 1rem;
+        border-radius: 10px;
+        margin-top: 1rem;
+    }
+
+    .nav-link {
+        padding: 0.6rem 0.8rem; /* تقليل الحشو أكثر */
+        margin: 3px 0;
+    }
+
+    .btn-logout {
+        margin-top: 0.8rem;
+        width: 100%;
+    }
+    
+    body {
+        margin-top: 50px; /* هامش أقل للشاشات الصغيرة */
+    }
+}

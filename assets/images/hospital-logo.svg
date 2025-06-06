@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <!-- خلفية دائرية -->
+    <circle cx="50" cy="50" r="48" fill="#1a5f7a" />
+    
+    <!-- رمز المستشفى -->
+    <path d="M30 40 h40 v30 h-40 z" fill="white" />
+    <rect x="45" y="25" width="10" height="50" rx="2" fill="white" />
+    <rect x="25" y="45" width="50" height="10" rx="2" fill="white" />
+    
+    <!-- تفاصيل إضافية -->
+    <circle cx="50" cy="50" r="15" fill="#2c3e50" />
+    <path d="M45 50 h10 M50 45 v10" stroke="white" stroke-width="2" />
+    
+    <!-- إطار خارجي -->
+    <circle cx="50" cy="50" r="48" fill="none" stroke="#ecf0f1" stroke-width="2" />
+</svg>

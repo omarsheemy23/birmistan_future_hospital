@@ -1,0 +1,20 @@
+[14-May-2025 23:49:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_db.prescription_medicines' doesn't exist in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dashboard.php:64
+Stack trace:
+#0 C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dashboard.php(64): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dashboard.php on line 64
+[15-May-2025 00:13:03 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_db.prescription_medicines' doesn't exist in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dashboard.php:64
+Stack trace:
+#0 C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dashboard.php(64): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dashboard.php on line 64
+[15-May-2025 00:27:29 Europe/Berlin] [2025-05-15 00:27:29] Table 'prescription_medicines' not found. Redirecting to fallback dashboard.
+[15-May-2025 00:27:29 Europe/Berlin] Loading fallback dashboard - 2025-05-15 00:27:29
+[15-May-2025 00:28:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\header.php on line 11
+[15-May-2025 00:29:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\header.php on line 11
+[15-May-2025 00:29:43 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\header.php on line 11
+[15-May-2025 00:29:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\header.php on line 11
+[15-May-2025 00:29:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\header.php on line 11
+[15-May-2025 01:40:13 Europe/Berlin] PHP Warning:  Undefined variable $all_available in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dispense_medicine.php on line 325
+[15-May-2025 01:40:21 Europe/Berlin] PHP Warning:  Undefined variable $all_available in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dispense_medicine.php on line 325
+[15-May-2025 01:41:44 Europe/Berlin] PHP Warning:  Undefined variable $all_available in C:\xampp\htdocs\birmistan_future_hospital\pharmacist\dispense_medicine.php on line 326
